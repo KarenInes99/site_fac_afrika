@@ -1,0 +1,22 @@
+{
+    "Français": {
+        "FAC-AFRIKA": "FAC-AFRIKA",
+        "Accueil": "Accueil",
+        "Agriculture": "Agriculture",
+        "Tourisme": "Tourisme",
+        "Culture et Tradition": "Culture et Tradition",
+        "À propos de nous": "À propos de nous",
+        "language": "Français",
+        "footer_text": "Tous droits réservés."
+    },
+    "English": {
+        "FAC-AFRIKA": "FAC-AFRIKA",
+        "Accueil": "Home",
+        "Agriculture": "Agriculture",
+        "Tourisme": "Tourism",
+        "Culture et Tradition": "Culture and Tradition",
+        "À propos de nous": "About Us",
+        "language": "English",
+        "footer_text": "All rights reserved."
+    }
+}
